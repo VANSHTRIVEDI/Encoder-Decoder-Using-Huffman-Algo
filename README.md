@@ -1,4 +1,4 @@
-#Huffman Coding Implementation in Java
+  Huffman Coding Implementation in Java
 
 This repository contains a Java implementation of Huffman coding, a popular algorithm used for lossless data compression.
 
